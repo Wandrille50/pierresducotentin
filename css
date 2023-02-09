@@ -1,0 +1,33 @@
+body {
+    font-style: normal; 
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: blue; 
+    font-size: large; 
+    font-weight: bold;
+}
+
+h2 {
+    color: lightblue
+}
+
+h3 {
+    border: solid blue; 
+    border-radius: 10px;
+}
+
+img {
+    border-radius: 100px; 
+    border: solid 5px black;
+    float: right;
+}
+
+a {
+    display: inline-block;
+    width: 75px;
+    border: solid 2px black;
+    background-color: blue;
+    padding: 25%;
+}
